@@ -1,6 +1,6 @@
 # Mini E-Commerce Store
 
-Hey! This is a React-based shopping app I built for a coding assessment. It's got all the usual e-commerce features you'd expect - product browsing, filtering, and a working shopping cart.
+Hey! This is a React-based shopping app. It's got all the usual e-commerce features you'd expect - product browsing, filtering, and a working shopping cart.
 
 ## What It Does
 
@@ -92,5 +92,3 @@ If I had more time, would be cool to add:
 - Product reviews
 - Order history
 - Better product images (the API ones are hit or miss)
-
-
