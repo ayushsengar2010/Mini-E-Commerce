@@ -93,10 +93,4 @@ If I had more time, would be cool to add:
 - Order history
 - Better product images (the API ones are hit or miss)
 
-## Browser Compatibility
 
-Works on all modern browsers - Chrome, Firefox, Safari, Edge. Tested on the latest versions.
-
----
-
-Built this in January 2026 for a company assessment. Hope you like it!
